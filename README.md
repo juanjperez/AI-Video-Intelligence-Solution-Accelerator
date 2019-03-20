@@ -2,7 +2,7 @@
 [![Issues][issues-badge]][issues-url]
 [![Gitter][gitter-badge]][gitter-url]
 
-Remote Monitoring Solution with Azure IoT
+AI Video Intelligence Solution Accelerator
 ========
 <div align="center">
 <img src="https://user-images.githubusercontent.com/33666587/39657377-33612fc8-4fbc-11e8-98a8-58906236238a.png" width="600" height="auto"/>
